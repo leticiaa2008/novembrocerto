@@ -111,3 +111,14 @@ footer {
     border-radius: 10px;
     font-weight: 600;
 }
+
+.img1 {
+    height: 300px;
+    width: 500px;
+    transition: 0.2s ease-in-out;
+}
+
+.img1:hover {
+    transform:scale(1.05)
+}
+
